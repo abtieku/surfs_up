@@ -1,7 +1,7 @@
 # Surfs Up
 
 ## Overview
-The purpose of this analysis is to find out if Oahu is really a good place to open a surf and ice cream shop, based on temperatures in June and December. 
+The purpose of this analysis is to find out if Oahu is a sustainable place to open a surf and ice cream shop, based on temperatures in June and December. 
 
 To do this, I used Python, Pandas, and SQL Alchemy. My input file was a SQL Lite file containing weather information.
 ## Results
@@ -20,7 +20,7 @@ Here is the result from the analyses (all temperatures are in Fahrenheit). See c
 ## Summary
 The analysis showed that temperatures are very moderate in Oahu for both June and December. December is just a little cooler. It seems that people could both surf and eat ice cream in both months. 
 
-We know that Oahu has a rainy season, and it's unlikely that people will visit the shop on those days. To find the number of days in which there will be little to no sales, these additional queries could be run:
+We know that December falls in Oahu's rainy season, and it's unlikely that people will visit the shop on those days. To find the number of days in which there will be little to no sales, these additional queries could be run:
 - Find the number of days it rained in June and the number of days it rained in December.
 - Find the rainfall amount for the month of June and the rainfall amount for the month of December.
 
