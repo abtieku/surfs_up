@@ -20,7 +20,7 @@ Here is the result from the analyses (all temperatures are in Fahrenheit). See c
 ## Summary
 The analysis showed that temperatures are very moderate in Oahu for both June and December. December is just a little cooler. It seems that people could both surf and eat ice cream in both months. 
 
-We know that December falls in Oahu's rainy season, and it's unlikely that people will visit the shop on those days. To find the number of days in which there will be little to no sales, these additional queries could be run:
+We know that it rains a lot in Hawaii, a nd it's unlikely that people will visit the shop on those days. To find the number of days in which there will be little to no sales, these additional queries could be run:
 - Find the number of days it rained in June and the number of days it rained in December.
 - Find the rainfall amount for the month of June and the rainfall amount for the month of December.
 
